@@ -1,0 +1,15 @@
+{
+ "v": 1,
+ "requests": {
+  "repo": "properbbq/group-insurance-allocation-maker",
+  "key": "BCFHFhIHABgHekciWAzEOYDU0ALDjMyHVMLAADiaXwM5ze-Jpz2Zd0XFFHvbTr-IVatT5XISid80cJAjTqh_dcs"
+ },
+ "users": {
+  "f1ea5399a6fcd4aa15e46e04910e2307bd832a6a603685ccd62f540983ea5e32": {
+   "iterations": 600000,
+   "key": "Aj-yKjKDZHF-tWse.oVBa35RoOqtT07Jnxil2TF9ZvPZTepZTIhRegqLX_UW-mXljL2wcbE289xToJW56",
+   "salt": "s6YPjZCdSjEnsMiJOA0f4g==",
+   "profile": "TI-cs8LGTMR3iK90.4rEnOUddz2LMRoE_CamoznZA5cdXa9gdQfCTYgypKAIX8goSFzVCBErVDEPdA68gGxbeJ0jeao2zWebqQRRBtgZ0ewfwYFhZqA5EWpKP2guRoPcDJMqqFCZ6GqdOzwnsu7GXTo_VPgkg7oiga__zLAbMUbsvknGdT-NKijneH1bEG5qYq9mFeeNDol7akoD_RidfpQ"
+  }
+ }
+}
